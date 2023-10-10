@@ -24,6 +24,7 @@
     height: 25px;
     padding-left: 45px;
 }
+ 
 
 #leftside{
 width: 23%;
@@ -161,6 +162,9 @@ input{
     height: 32px;
     margin: 8px;
 }
+#thumb1{
+    margin-bottom: 10px;
+}
 .search{
     height: 45px;
     padding: 5px 15px 5px 15px;
@@ -205,7 +209,7 @@ input{
 .videos{
     margin-top: 20px;
     display: flex;
-    align-items: center;
+    align-items: center; 
     justify-content: center;
     flex-wrap: wrap;
 }
@@ -241,6 +245,7 @@ input{
     padding-top: 20px;
 }
 #mymx{
+    padding-bottom: 30px;
     display: block;
 }
 #mymix{
